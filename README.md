@@ -1,5 +1,5 @@
 # Introdução
-Programa que recebe como entrada um texto e identifica o primeiro carácter que não se repete.
+Programa que recebe como entrada um texto e identifica o primeiro caractere que não se repete.
 
 Alguns exemplos:
 * Entrada: AAbCC, Saída: b
@@ -8,4 +8,4 @@ Alguns exemplos:
 #Como executar a aplicação
 mvn exec:java -Dexec.args="AAAbCCC"
 
-O argumento é obrigatório, substitua o valor pela texto que preferir.
+O argumento é obrigatório, substitua o valor pelo texto que preferir.
