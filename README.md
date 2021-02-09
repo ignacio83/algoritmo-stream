@@ -5,7 +5,8 @@ Alguns exemplos:
 * Entrada: AAbCC, Saída: b
 * Entrada: AAAccD, Saída: D 
 
-#Como executar a aplicação
+# Como executar a aplicação
+```sh
 mvn exec:java -Dexec.args="AAAbCCC"
-
+```
 O argumento é obrigatório, substitua o valor pelo texto que preferir.
